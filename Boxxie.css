@@ -1,0 +1,21 @@
+#Box1{
+    background-color: lightblue;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+#Box2{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+}
+#Box3{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+}

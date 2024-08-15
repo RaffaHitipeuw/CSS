@@ -1,0 +1,21 @@
+#Milkshake {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 50px;
+}
+#Smoothie {
+  background-color: lightgreen;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  margin: 50px;
+}
+#Soda{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  margin: 50px;
+}
