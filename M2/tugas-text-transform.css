@@ -1,0 +1,111 @@
+.Upper {
+  text-align: center;
+  color: #f6fff8;
+  background-color: #6b9080;
+  padding: 20px;
+}
+.align{
+    background-color: brown;
+    color: white;
+}
+.a {
+  text-align: center;
+}
+.b {
+  text-align: left;
+  
+}
+.c {
+  text-align: right;
+}
+.d {
+  text-align: justify;
+}
+.direction{
+    background-color: aliceblue;
+    color: black;
+}
+p.rtl {
+  direction: rtl;
+}
+p.ltr {
+  direction: ltr;
+}
+.Decoration {
+  text-align: center;
+  background-color: aquamarine;
+  color: cornflowerblue;
+}
+.over {
+  text-decoration: overline;
+}
+.line {
+  text-decoration: line-through;
+}
+.under {
+  text-decoration: underline;
+}
+.underover {
+  text-decoration: underline overline;
+}
+.TextTransform {
+  text-align: center;
+  background-color: beige;
+  color: blue;
+}
+.ab {
+  text-transform: uppercase;
+  text-align: center;
+}
+.bc {
+  text-transform: lowercase;
+  text-align: center;
+}
+.cd {
+  text-transform: capitalize;
+  text-align: center;
+}
+.spacing {
+  text-align: center;
+  background-color: darkgreen;
+  color: orange;
+}
+.px {
+  letter-spacing: 5px;
+}
+.overflow {
+  text-align: center;
+  background-color: darksalmon;
+  color: darkturquoise;
+}
+.clip {
+  white-space: nowrap;
+  width: 50px;
+  overflow: hidden;
+  text-overflow: clip;
+  border: 1px solid #000000;
+  ;
+}
+.ellipsis {
+  white-space: nowrap;
+  width: 50px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: 1px solid #000000;
+}
+.string {
+  white-space: nowrap;
+  width: 50px;
+  overflow: hidden;
+  text-overflow: "----";
+  border: 1px solid #000000;
+}
+.shadow{
+    background-color: deepskyblue;
+    text-align: center;
+    color: darkolivegreen;
+}
+.shaadow{
+    text-shadow: 2px 2px #FF0000;
+    
+}
