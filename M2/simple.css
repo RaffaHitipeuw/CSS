@@ -1,0 +1,42 @@
+#judul-halaman h1 {
+    color: #003366;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    margin: 15px 20px;
+
+}
+
+.gmail {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+
+#email {
+    color: #003366;
+    text-decoration: none;
+}
+
+
+#email:hover {
+    color: #ff0000;
+}
+.nama{
+    text-align: center;
+}
