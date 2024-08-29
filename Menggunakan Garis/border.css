@@ -1,0 +1,38 @@
+.garis {
+  border-bottom: 3px solid black;
+  text-align: center;
+}
+.border-sisi {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  text-align: center;
+}
+.jenis-garissolid {
+  border: 2px solid black;
+  text-align: center;
+}
+
+.jenis-garisdashed {
+  border: 2px dashed blue;
+  text-align: center;
+}
+
+.jenis-garisdotted {
+  border: 2px dotted green;
+  text-align: center;
+}
+
+.jenis-garisdouble {
+  border: 4px double red;
+  text-align: center;
+}
+.corner {
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+.gambar-garis {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  text-align: center;
+}
