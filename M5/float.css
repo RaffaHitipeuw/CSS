@@ -1,0 +1,18 @@
+.kotak-kiri {
+  float: left;
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  margin-right: 20px;
+}
+.tengah{
+    clear: both;
+    text-align: center;
+}
+.kotak-kanan {
+  float: right;
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  margin-left: 20px;
+}
